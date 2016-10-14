@@ -5,5 +5,6 @@ void algo(void)
   for(i=0; i<10;i++)
   {
     b = 2*a+i;
+    c=3;
   }
 }
